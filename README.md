@@ -1,2 +1,2 @@
 ## Merhaba, ben Beste! 👋
-<img src="python.jpg" alt="Örnek Resim"/>
+<img width="100" src="python.jpg" alt="Örnek Resim"/>
