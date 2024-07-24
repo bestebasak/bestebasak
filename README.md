@@ -1,2 +1,1 @@
-## Hi there 👋
-Merhaba, ben Beste! 👋
+## Merhaba, ben Beste! 👋
