@@ -1,6 +1,3 @@
-## Merhaba, ben Beste! 👋
-<img width="100" src="python.jpg" alt="Örnek Resim"/>
-
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <img src="https://komarev.com/ghpvc/?username=bestebasak&&style=plastics&&color=yellow" align="right"/> </p>
 
@@ -101,6 +98,3 @@ jobs:
 
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
- 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-
