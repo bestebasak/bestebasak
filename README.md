@@ -2,7 +2,7 @@
 <img width="100" src="python.jpg" alt="Örnek Resim"/>
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
+<img src="https://komarev.com/ghpvc/?username=bestebasak&&style=plastics&&color=yellow" align="right"/> </p>
 
 <!-- <h2 align="center"> -->
 <!-- </h2>  -->
@@ -104,13 +104,3 @@ jobs:
  
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
 
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
-</p>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
-
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hanzelkaraagac)
